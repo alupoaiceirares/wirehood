@@ -1,0 +1,10 @@
+org\wirehood\productservice\ProductServiceApplication.class
+org\wirehood\productservice\controller\ProductController.class
+org\wirehood\productservice\dto\ProductResponse.class
+org\wirehood\productservice\model\Product$ProductBuilder.class
+org\wirehood\productservice\repository\ProductRepository.class
+org\wirehood\productservice\service\ProductService.class
+org\wirehood\productservice\dto\ProductRequest.class
+org\wirehood\productservice\model\Product.class
+org\wirehood\productservice\dto\ProductResponse$ProductResponseBuilder.class
+org\wirehood\productservice\dto\ProductRequest$ProductRequestBuilder.class

@@ -1,0 +1,5 @@
+org\wirehood\inventoryservice\InventoryServiceApplication.class
+org\wirehood\inventoryservice\service\InventoryService.class
+org\wirehood\inventoryservice\repository\InventoryRepository.class
+org\wirehood\inventoryservice\controller\InventoryController.class
+org\wirehood\inventoryservice\model\Inventory.class
