@@ -5,34 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6d4b612-686f-4970-aea8-d7f606d0d86a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/discovery-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/org/wirehood/inventoryservice/InventoryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/wirehood/inventoryservice/InventoryServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/org/wirehood/inventoryservice/controller/InventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/wirehood/inventoryservice/controller/InventoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/org/wirehood/inventoryservice/repository/InventoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/wirehood/inventoryservice/repository/InventoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/org/wirehood/inventoryservice/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/wirehood/inventoryservice/service/InventoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/target/classes/org/wirehood/inventoryservice/InventoryServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/classes/org/wirehood/inventoryservice/InventoryServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/target/classes/org/wirehood/inventoryservice/controller/InventoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/classes/org/wirehood/inventoryservice/controller/InventoryController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/target/classes/org/wirehood/inventoryservice/repository/InventoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/classes/org/wirehood/inventoryservice/repository/InventoryRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/target/classes/org/wirehood/inventoryservice/service/InventoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/classes/org/wirehood/inventoryservice/service/InventoryService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/wirehood/orderservice/OrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/org/wirehood/orderservice/OrderServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/org/wirehood/orderservice/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/org/wirehood/orderservice/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/org/wirehood/orderservice/OrderServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/org/wirehood/orderservice/OrderServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/target/classes/org/wirehood/orderservice/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/org/wirehood/orderservice/service/OrderService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/org/wirehood/productservice/ProductServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/org/wirehood/productservice/ProductServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/target/classes/org/wirehood/productservice/ProductServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/org/wirehood/productservice/ProductServiceApplication.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "11",
     "last_opened_file_path": "C:/Users/Preacher/Documents/Projects/MicroservicesWirehood/product-service",
-    "onboarding.tips.debug.path": "C:/Users/Preacher/Documents/MicroservicesProjectsFolder/Wirehood/MicroservicesWirehood/discovery-server/src/main/java/org/wirehood/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Preacher/Documents/MicroservicesProjectsFolder/Wirehood/MicroservicesWirehood/api-gateway/src/main/java/org/wirehood/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -75,6 +53,8 @@
       <recent name="C:\Users\Preacher\Documents\Projects\MicroservicesWirehood\inventory-service" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.wirehood.apigateway" />
+      <recent name="org.wirehood" />
       <recent name="org.wirehood.orderservice.dto" />
     </key>
   </component>
@@ -90,7 +70,20 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OrderServiceApplication">
+  <component name="RunManager" selected="Application.ApiGatewayApplication">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.wirehood.apigateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.wirehood.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DiscoveryServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.wirehood.discoveryserver.DiscoveryServerApplication" />
       <module name="discovery-server" />
@@ -145,10 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DiscoveryServerApplication" />
-        <item itemvalue="Application.InventoryServiceApplication" />
-        <item itemvalue="Application.OrderServiceApplication" />
+        <item itemvalue="Application.ApiGatewayApplication" />
         <item itemvalue="Application.ProductServiceApplication" />
+        <item itemvalue="Application.OrderServiceApplication" />
+        <item itemvalue="Application.InventoryServiceApplication" />
+        <item itemvalue="Application.DiscoveryServerApplication" />
       </list>
     </recent_temporary>
   </component>
